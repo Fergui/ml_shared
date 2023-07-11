@@ -1,0 +1,8 @@
+name: ml_ros
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - scikit-learn=1.2.2
+  - numpy=1.24.2
+  - cffi=1.15.1
